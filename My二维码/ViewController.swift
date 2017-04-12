@@ -30,7 +30,7 @@ class ViewController: UIViewController {
             WQAlertManager.sharedInstance.showAlert(targetVC: self, title: nil, message: string, style: .alert, confirmTitle: "确认", cancelTitle: nil)
             
         }
-        
+        print("test")
         
     }
     
