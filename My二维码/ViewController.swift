@@ -39,7 +39,7 @@ class ViewController: UIViewController {
             iTextField.resignFirstResponder()
         }
         sender.cancelsTouchesInView = false
-
+        //zhushi
     }
     //二维码扫描
     @IBAction func scanAction(_ sender: UIButton) {
